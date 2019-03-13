@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Firsdt asbvb")
+        print("Firsdt asbvb")
+        print("Firsdt asbvb")
+        print("Firsdt asbvb")
+        print("Firsdt asbvb")
+        print("Firsdt asbvb")
 
         // Do any additional setup after loading the view, typically from a nib.
     }
